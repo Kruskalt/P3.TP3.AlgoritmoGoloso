@@ -7,7 +7,7 @@ package radiocensal;
 import java.util.Objects;
 
 public class Arista implements Comparable<Arista>
-{
+{ //d
 	
     private int i;
     private int j;
